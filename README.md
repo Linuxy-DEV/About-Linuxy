@@ -18,7 +18,7 @@ He also knows HTML, CSS, JS and other things related like Nginx and Linux with P
 
 
 **Twitter: [@RealLinuxy](https://twitter.com/RealLinuxy)**
-## Screenshots of his favorates 
+## Screenshots of his Favorates 
 
 
 He likes the Bashtop System Montoring on Linux
@@ -35,7 +35,7 @@ Very Handy
 
 
 
-## Desktop-Wise
+## Desktop Wise
 
 His desktop is a Ubuntu 20.20 System based on a Dell Workstation
 ![Bashtop](/img/bg_sys_wallpaper.png)
