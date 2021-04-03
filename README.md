@@ -4,7 +4,7 @@
 
 **Welcome to the about the about me pag of Linuxy (LinuxyDEV)**
 
-Here, We will talk about Linuxy favourates and other things Linuxy
+Here, We will talk about Linuxy favourates and other things Linuxy He Owns Mojang Studios aswell!
 
 Linuxy likes tuna and other thing related to it. He loves the colour Oranage.
 and was born in Australia, Sydney. He is the best MinecraftDEV
