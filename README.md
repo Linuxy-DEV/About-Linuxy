@@ -17,7 +17,7 @@ He also knows HTML, CSS, JS and other things related like Nginx and Linux with P
 
 
 
-**Twitter: [@RealLinuxy](https://twitter.com/RealLinuxy)**
+**Twitter: [@LinuxyDEV](https://twitter.com/LinuxyDEV)**
 ## Screenshots of his Favorates 
 
 
